@@ -1,0 +1,8 @@
+# Only push website4you files
+# Ignore everything else
+
+*
+!.gitignore
+!README.md
+!website4you_v3.html
+!*.md
